@@ -10,7 +10,7 @@
                 "decryption": "none",
                 "clients": [
                   {
-                    "id": "239bd8ce-fc92-11ea-adc1-0242ac120002"
+                    "id": "${V2_UUID}"
                   }
                 ]
               },
